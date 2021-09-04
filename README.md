@@ -2,8 +2,6 @@
 
 > vue authentication firebase🔥 
 
-![alt tag](https://i.imgur.com/5AnRW5j.png)
-
 Simplified Firebase authentication for vue projects with support for Facebook & Google login & Github & Twitter and with support  Progressive Web Apps
 
 ## Config
@@ -27,7 +25,7 @@ firebase.initializeApp({
 
 ``` bash
 # Git Clone Project
-git clone git@github.com:aofdev/vue-firebase-auth-vuex.git
+git clone git@github.com:reactexpert1/vue-firebase-auth-vuex.git
 
 # Cd project
 cd vue-firebase-auth-vuex
